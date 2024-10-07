@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953651159416",
+    "firebase_url": "https://doen-54fd6.firebaseio.com",
+    "project_id": "doen-54fd6",
+    "storage_bucket": "doen-54fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953651159416:android:70f665987cfc6eb4e3688d",
+        "android_client_info": {
+          "package_name": "com.xoonstudio.doen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953651159416-u6k1hdl21dn7b4pl2cocd1ho1opc24tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xoonstudio.doen",
+            "certificate_hash": "fc6e4baa2b02fbafdeac3bd881e18da6e00b2492"
+          }
+        },
+        {
+          "client_id": "953651159416-48p42sq8p1nvu32b8v3bk6nbitsu17vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCnmRNPge9aawLXJhFDvqLP6yiY9taI1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953651159416-48p42sq8p1nvu32b8v3bk6nbitsu17vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
